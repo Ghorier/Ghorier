@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<img src="https://github.com/user-attachments/assets/d1d13211-fc4d-4e6b-ba99-6305ab049881" width="200" height="200" alt="M. Ahmed avatar" align="right" />
 
 ###
 
@@ -41,8 +42,3 @@
   <img src="https://profile-counter.glitch.me/Ghorier/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ghorier/Ghorier/output/snake.svg" alt="Snake animation" />
-
-###
